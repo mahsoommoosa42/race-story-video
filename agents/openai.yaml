@@ -1,0 +1,4 @@
+interface:
+  display_name: "Race Story Video"
+  short_description: "Clear portrait race recaps with five visual themes"
+  default_prompt: "Use $race-story-video to turn my race footage into a portrait recap and show me the available visual themes."
